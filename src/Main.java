@@ -10,7 +10,8 @@ public class Main {
 			new CircleCircummatance(),
       new SummationSeries(),
       new Fibonacci(),
-      new multiplicationSeries()
+      new multiplicationSeries(),
+       new sphere()
 
 
 	};
