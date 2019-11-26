@@ -11,8 +11,8 @@ public class Main {
       new SummationSeries(),
       new Fibonacci(),
       new multiplicationSeries(),
-	  new CircleVolum()
-
+	  new CircleVolum(),
+       new sphere()
 
 	};
 	public static void main(String[] args) {
